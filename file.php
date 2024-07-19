@@ -8,7 +8,7 @@
 <body>
   <form id="formAjax" action="" enctype="multipart/form-data" method="POST">
     <input type="file" id="fileAjax" name="fileAjax" />
-    <input type="text" id="name" name="" />
+    <input type="text" id="name" name="ok" />
     <br /><br />
     <input onclick="upload()" type="button" id="submit" name="submit" value="Upload" />
   </form>
